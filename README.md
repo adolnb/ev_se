@@ -51,8 +51,10 @@ python3 -m venv venv
 pip install -r requirements.txt
 
 ### 4. Crear archivo `.env`
-MONGODB_URI=mongodb+srv://<usuario>:<password>@cluster.mongodb.net/db?retryWrites=true&w=majority
-JWT_SECRET_KEY=tu_clave_super_secreta
+SECRET_KEY=supersecretkeyxda1
+JWT_SECRET_KEY=b0mb0240404uteqsda
+MONGODB_DB=ev_sda
+MONGODB_URI=mongodb+srv://ado_b0mb0:Adonai240404@simgt.25nvu.mongodb.net/ev_sda?retryWrites=true&w=majority&appName=SIMGT
 
 
 ## Ejecutar el servidor
