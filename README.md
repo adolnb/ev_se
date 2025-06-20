@@ -40,7 +40,7 @@ README.md
 
 ## Instalación (Usando la terminal)
 ### 1. Clonar el repositorio
-git clone https://github.com/tu_usuario/tu_proyecto.git
+git clone https://github.com/adolnb/ev_se.git
 cd carpeta-donde-guardo-proyecto/ev_01
 
 ### 2. Crear entorno virtual
